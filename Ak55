@@ -43,5 +43,12 @@
         "key": "PURT-JKLM-RR",
         "expirydate": "02-05-2026",
         "Allowoffline": false
+    },
+
+    {
+        "device_id": "1ad6edc3f5a42cb0",
+        "key": "JKMM-KTZU-RP",
+        "expirydate": "02-05-2026",
+        "Allowoffline": false
     }
 ]
