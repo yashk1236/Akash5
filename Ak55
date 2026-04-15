@@ -23,5 +23,11 @@
         "key": "969D-0315-E381-A0F2",
         "expirydate": "07-05-2026",
         "Allowoffline": false
-    }
+    },
+{
+        "device_id": "ce082d4829d41093",
+        "key": "593A-4F98-0053-B215",
+        "expirydate": "10-05-2026",
+        "Allowoffline": false
+    },
 ]
