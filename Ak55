@@ -36,5 +36,12 @@
         "key": "593A-4F98-0053",
         "expirydate": "02-05-2026",
         "Allowoffline": false
+    },
+
+    {
+        "device_id": "8bb6ac410f4ab757",
+        "key": "PURT-JKLM-RR",
+        "expirydate": "02-05-2026",
+        "Allowoffline": false
     }
 ]
