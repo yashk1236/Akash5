@@ -57,5 +57,12 @@
         "key": "AK5J-77HJ-KK",
         "expirydate": "02-05-2026",
         "Allowoffline": false
+    },
+
+    {
+        "device_id": "ebb2d1a835c4ae97",
+        "key": "JK67-HH6V-8M",
+        "expirydate": "23-04-2026",
+        "Allowoffline": true
     }
 ]
