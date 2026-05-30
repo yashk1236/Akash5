@@ -11,4 +11,10 @@
         "expirydate": "15-06-2027",
         "Allowoffline": false
     },
+{
+        "device_id": "aad38588e1fc1de5",
+        "key": "yash4",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
